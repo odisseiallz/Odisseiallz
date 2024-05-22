@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🌆
 
-<!--
-**odisseiallz/Odisseiallz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fabricio Bandeira
 
-Here are some ideas to get you started:
+- Estou estudando [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JAVASCRIPT
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Para entra em contato comigo 📫
+
+  fabricciobandeirally@gmail.com
+  
+  @fabriicio_swz
+  
+![]( https://media.tenor.com/DYzUq3uX1QgAAAAM/tom-and-jerry-evil.gif)
+ 
